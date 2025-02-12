@@ -1,5 +1,5 @@
 body {
-    background-color: #f9f9f9;
+    background-color: #f8f5f5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 20px;
@@ -53,8 +53,8 @@ a {
     text-decoration: none;
 }
 
-pre {
-    font-size: 1.5rem;
+section {
+    font-size: 1rem;
     text-align: left;
     font-family: inherit;
 }
@@ -83,4 +83,10 @@ pre {
   .subtitle {
     top: 65%;
     font-size: 1em;
+  }
+
+  .h4 {
+    font-size: 0.5rem;
+    text-align: center;
+    font-family: inherit;
   }
